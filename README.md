@@ -3,7 +3,7 @@ Java project to batch ping IP addresses.
 
 The software will use your operating system's `ping` command and parse its output.
 
-##Usage
+## Usage
 
 <img align="right" width="531" height="554" src="https://github.com/tbender4/PingIPs/blob/master/demo.png">
 
